@@ -8,3 +8,6 @@
 # else:                      podminky
 #     pass
 
+#git clone
+#cd
+#git pull
